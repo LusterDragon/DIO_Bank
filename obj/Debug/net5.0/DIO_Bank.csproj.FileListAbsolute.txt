@@ -1,0 +1,16 @@
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\bin\Debug\net5.0\DIO_Bank.exe
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\bin\Debug\net5.0\DIO_Bank.deps.json
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\bin\Debug\net5.0\DIO_Bank.runtimeconfig.json
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\bin\Debug\net5.0\DIO_Bank.runtimeconfig.dev.json
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\bin\Debug\net5.0\DIO_Bank.dll
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\bin\Debug\net5.0\ref\DIO_Bank.dll
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\bin\Debug\net5.0\DIO_Bank.pdb
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\obj\Debug\net5.0\DIO_Bank.csproj.AssemblyReference.cache
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\obj\Debug\net5.0\DIO_Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\obj\Debug\net5.0\DIO_Bank.AssemblyInfoInputs.cache
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\obj\Debug\net5.0\DIO_Bank.AssemblyInfo.cs
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\obj\Debug\net5.0\DIO_Bank.csproj.CoreCompileInputs.cache
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\obj\Debug\net5.0\DIO_Bank.dll
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\obj\Debug\net5.0\ref\DIO_Bank.dll
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\obj\Debug\net5.0\DIO_Bank.pdb
+C:\Users\LUAN\Documents\BootCamp - Gereação Tech Unimed-BH (Fullstack)\.NET C#\Aplicação de Transferência bancária\DIO_Bank\obj\Debug\net5.0\DIO_Bank.genruntimeconfig.cache
